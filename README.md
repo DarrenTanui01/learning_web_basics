@@ -1,1 +1,1 @@
-Aa app made from basic html and CSS
+An app made from basic HTML and CSS
